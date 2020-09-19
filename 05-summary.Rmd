@@ -1,3 +1,5 @@
 # Final Words
-
+```{r}
+knitr::include_app("https://yihui.shinyapps.io/miniUI/", height = '600px')
+```
 We have finished a nice book.
